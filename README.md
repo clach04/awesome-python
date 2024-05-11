@@ -14,7 +14,7 @@ Awesome python projects, tools and notes
 ## parsing
 
   * pyparsing, PLY, pyPEG and parsimonious.
-  * rply
+  * rply https://pypi.org/project/rply/ pure Python Lex/Yacc that works with RPython
 
 ## Python Multi-Version Support
 
