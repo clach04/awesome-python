@@ -11,6 +11,11 @@ Awesome python projects, tools and notes
   * https://github.com/kaitai-io/kaitai_struct - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
   * https://github.com/malinoff/structures - Declarative binary data builder and parser: simple, fast, extensible
 
+## parsing
+
+  * pyparsing, PLY, pyPEG and parsimonious.
+  * rply
+
 ## Python Multi-Version Support
 
   * https://pypi.org/project/sixer/ - UNMAINTAINED Add Python 3 support to Python 2 applications using the six module.
