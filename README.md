@@ -104,6 +104,7 @@ Markdown tools
   * https://github.com/atsepkov/RapydScript
   * https://github.com/flexxui/pscript
   * https://github.com/skulpt/skulpt
+  * https://github.com/rusthon/Rusthon
   * https://github.com/beeware/batavia
   * pyjs
 
