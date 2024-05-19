@@ -2,8 +2,9 @@
 
 Awesome python projects, tools and notes
 
+## Libraries
 
-## Records and Structures
+### Records and Structures
 
   * Venerable struct builtin
   * https://github.com/malinoff/structures - Declarative binary data builder and parser: simple, fast, extensible
@@ -11,18 +12,18 @@ Awesome python projects, tools and notes
   * https://github.com/kaitai-io/kaitai_struct - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
   * https://github.com/malinoff/structures - Declarative binary data builder and parser: simple, fast, extensible
 
-## parsing
+### parsing
 
   * pyparsing, PLY, pyPEG and parsimonious.
   * rply https://pypi.org/project/rply/ pure Python Lex/Yacc that works with RPython
 
-## Python Multi-Version Support
+### Python Multi-Version Support
 
   * https://pypi.org/project/sixer/ - UNMAINTAINED Add Python 3 support to Python 2 applications using the six module.
       * https://github.com/vstinner/sixer
   * https://github.com/limodou/2to6 - Porting python 2 source code to python 3 and compatible with six module
 
-## Markdown
+### Markdown
 
   * https://github.com/clach04?submit=Search&q=markdown&tab=stars&type=&sort=&direction=&submit=Search
 
@@ -62,6 +63,12 @@ Markdown tools
   * https://github.com/Linbreux/wikmd - A file based wiki that uses markdown
   * https://github.com/mikeboers/uWiki - A micro wiki, powered by Markdown.
   * https://github.com/retext-project/retext - ReText: Simple but powerful editor for Markdown and reStructuredText (PyQt6)
+
+## Tools
+
+### Debuggers
+
+  * https://github.com/beeware/bugjar
 
 ## Python Implementations
 
