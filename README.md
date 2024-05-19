@@ -20,6 +20,10 @@ Awesome python projects, tools and notes
 ### Web scraping and parsing
 
   * https://github.com/scrapy/parsel
+  * https://github.com/hellock/icrawler
+  * bs4
+  * lxml
+  * PlayWright
 
 ### Python Multi-Version Support
 
