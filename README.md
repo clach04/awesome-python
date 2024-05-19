@@ -79,5 +79,18 @@ Markdown tools
       * https://github.com/pyscript/MicroPyScript https://pyscript.net/
   * https://github.com/flexxui/pscript
   * https://github.com/skulpt/skulpt
+  * https://github.com/beeware/batavia
   * pyjs
+
+### Java
+
+  * Jython
+  * https://github.com/beeware/voc
+
+### standard library 
+
+  * PyPy
+  * https://github.com/beeware/ouroboros
+
+
 
