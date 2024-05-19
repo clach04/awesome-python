@@ -114,6 +114,7 @@ Markdown tools
 #### Web browser extensions with python
 
   * https://pythonspot.com/create-a-chrome-plugin-with-python/
+  * https://github.com/PFython/pyscript-local-runtime?tab=readme-ov-file
   * hybrid https://eightify.app/media/how-to-develop-a-chrome-extension-using-python#setting-up-your-development-environment
 
 
