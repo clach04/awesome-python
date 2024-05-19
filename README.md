@@ -109,6 +109,11 @@ Markdown tools
   * https://github.com/beeware/batavia
   * pyjs
 
+#### Web browser extensions with python
+
+  * https://eightify.app/media/how-to-develop-a-chrome-extension-using-python#setting-up-your-development-environment
+
+
 ### Java
 
   * Jython
