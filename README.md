@@ -73,6 +73,7 @@ Markdown tools
 ### Web
 
   * https://www.brython.info/
+      * https://betterprogramming.pub/three-js-with-python-syntax-pyweb3d-2152bed1a43d
   * pyodide
   * PyScript
       * https://github.com/pyscript/MicroPyScript https://pyscript.net/
