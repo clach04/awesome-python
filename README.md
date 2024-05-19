@@ -107,7 +107,8 @@ Markdown tools
   * https://github.com/skulpt/skulpt
   * https://github.com/rusthon/Rusthon
   * https://github.com/beeware/batavia
-  * pyjs
+  * pyjs http://pyjs.org/
+  * pyjamas
 
 #### Web browser extensions with python
 
