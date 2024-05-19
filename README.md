@@ -101,6 +101,7 @@ Markdown tools
   * pyodide
   * PyScript
       * https://github.com/pyscript/MicroPyScript https://pyscript.net/
+  * https://www.transcrypt.org/
   * https://github.com/atsepkov/RapydScript
   * https://github.com/flexxui/pscript
   * https://github.com/skulpt/skulpt
