@@ -92,7 +92,7 @@ Markdown tools
   * https://github.com/keith-packard/snek
   * GP, BIPES, Pyxie, etc.
 
-### Web
+### Web / Javascript
 
   * https://www.brython.info/
       * https://github.com/rayluo/brython-project-template
@@ -101,6 +101,7 @@ Markdown tools
   * pyodide
   * PyScript
       * https://github.com/pyscript/MicroPyScript https://pyscript.net/
+  * https://github.com/atsepkov/RapydScript
   * https://github.com/flexxui/pscript
   * https://github.com/skulpt/skulpt
   * https://github.com/beeware/batavia
