@@ -77,5 +77,6 @@ Markdown tools
   * PyScript
       * https://github.com/pyscript/MicroPyScript https://pyscript.net/
   * https://github.com/flexxui/pscript
-  * pyjs, skulpt
+  * https://github.com/skulpt/skulpt
+  * pyjs
 
