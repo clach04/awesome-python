@@ -69,6 +69,12 @@ Markdown tools
 ### Debuggers
 
   * https://github.com/beeware/bugjar
+  * pdbplus
+  * ipdb
+
+### Code Coverage
+
+  * https://github.com/beeware/duvet
 
 ## Python Implementations
 
