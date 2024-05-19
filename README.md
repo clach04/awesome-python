@@ -95,6 +95,7 @@ Markdown tools
 ### Web
 
   * https://www.brython.info/
+      * https://github.com/rayluo/brython-project-template
       * https://gitlab.com/Verner/PythonConsoleExtension
       * https://betterprogramming.pub/three-js-with-python-syntax-pyweb3d-2152bed1a43d
   * pyodide
