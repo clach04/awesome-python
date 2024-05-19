@@ -112,7 +112,8 @@ Markdown tools
 
 #### Web browser extensions with python
 
-  * https://eightify.app/media/how-to-develop-a-chrome-extension-using-python#setting-up-your-development-environment
+  * https://pythonspot.com/create-a-chrome-plugin-with-python/
+  * hybrid https://eightify.app/media/how-to-develop-a-chrome-extension-using-python#setting-up-your-development-environment
 
 
 ### Java
