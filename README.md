@@ -62,3 +62,15 @@ Markdown tools
   * https://github.com/Linbreux/wikmd - A file based wiki that uses markdown
   * https://github.com/mikeboers/uWiki - A micro wiki, powered by Markdown.
   * https://github.com/retext-project/retext - ReText: Simple but powerful editor for Markdown and reStructuredText (PyQt6)
+
+## Python Implementations
+
+### Mini Python
+
+  * https://github.com/keith-packard/snek
+  * GP, BIPES, Pyxie, etc.
+
+### Web
+
+
+
