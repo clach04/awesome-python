@@ -66,6 +66,15 @@ Markdown tools
 
 ## Tools
 
+### Build binaries 
+
+  * py2exe
+  * PyInstaller
+  * https://github.com/beeware/briefcase
+  * Old Jython 2.x jar
+  * new jython war for Web apps
+
+
 ### Debuggers
 
   * https://github.com/beeware/bugjar
