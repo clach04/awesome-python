@@ -17,6 +17,10 @@ Awesome python projects, tools and notes
   * pyparsing, PLY, pyPEG and parsimonious.
   * rply https://pypi.org/project/rply/ pure Python Lex/Yacc that works with RPython
 
+### Web scraping and parsing
+
+  * https://github.com/scrapy/parsel
+
 ### Python Multi-Version Support
 
   * https://pypi.org/project/sixer/ - UNMAINTAINED Add Python 3 support to Python 2 applications using the six module.
