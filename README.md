@@ -66,6 +66,11 @@ Markdown tools
 
 ## Tools
 
+### Packaging
+
+  * https://github.com/PFython/easypypi
+
+
 ### Build binaries 
 
   * py2exe
