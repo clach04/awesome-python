@@ -72,5 +72,10 @@ Markdown tools
 
 ### Web
 
-
+  * https://www.brython.info/
+  * pyodide
+  * PyScript
+      * https://github.com/pyscript/MicroPyScript
+  * https://github.com/flexxui/pscript
+  * pyjs, skulpt
 
